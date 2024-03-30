@@ -1,0 +1,238 @@
+Author,Comment
+@CodingWallahSir,"Live Batch Full Stack Course - https://codingwallah.classx.co.in/new-courses/1-java-full-stack-course
+
+Want to connect in live Sat & sun with Some Real time Projects Hands on."
+@MotivationMatrix342,"I am very thankful to you sir for uploading this video and making it so easy for us to learn spring boot. 
+But the code you wrote for 'deleteEmployee' method at 1:36:03 did not work perfectly in my computer. The following code worked for me:
+
+@Override
+    public boolean deleteEmployee(Long id) {
+        // Find the employee with the given ID
+        Employee employeeToRemove = null;
+        for (Employee emp : employees) {
+            if (emp.getId().equals(id)) {
+                employeeToRemove = emp;
+                break;
+            }
+        }
+
+        // If employee found, remove it from the list
+        if (employeeToRemove != null) {
+            employees.remove(employeeToRemove);
+            return true;
+        } else {
+            return false; // Employee not found
+        }
+    }"
+@vikaspadihar4699,I have started spring boot for many times but I have got nothing and I leave it after not getting anything. But this one shot has shown the actual implementation about its working . This build my interest in spring boot. Thanking you sir.
+@user-rs1ks8qj3g,You can same course in english
+@rohantyagi737,sir aapka offline coaching h ?? please reply i am from ghaziabad
+@AnuragKumar-lm2ys,"@Autowired
+EmployeeService employeeService;
+Not working Beans not being created 1:44:01"
+@reethikprasad2139,Github link is missing please provide
+@sagarsen07,Spring boot ki YouTube par Hindi me ache video hee nahi hai koi....
+@jhanvigupta1743,"my delete operation is not working in 1:43:45, I have followed your video only but still it is not working"
+@vikaspadihar4699,"This is such a wonderful course sir, I was waiting for this from the day on that you made a vedio on spring boot working. Thank you so much sir."
+@pottertechnical6748,please make vedio on access data by user on role base and password or otp based
+@pottertechnical6748,"thanks a lot sir from bottom of heart , the video has that all thing that a biginner needs a lots i tried to understand the spring boot from starting i have wathced more vedio they all created and i also created but at last understanding would be 10%, but you have solve the every step with concept i need this type video, i realy apreciated your effort, i need this type vedio. please make vedio like this on JWT and role base authorization and athotication.😘"
+@mohit-pb3oz,"Sir mysql workbench kali linux pe install nhi hora, mene postgress sql use kiya with the help of pg admin but error batara hai. ""DataSourceAutoConfiguration "" Krke, usko properties me jake spring. Autocofingure .exclude  kiya. 
+Work kra hai lekin tables create nhi hore. 
+
+And database connection ho gaya hai."
+@arunyadav7467,more on spring boot
+@vishaltiwari1200,frontend ka code provide kr dijiye sir
+@vishaltiwari1200,Please provide the GitHub link sir
+@vishaltiwari1200,delete mapping is not working
+@GogleCoin,I didn't not understand as conceptually 😢
+@user-eu8vc8bk5y,please  sir  hibernate ka tutorial banao
+@4ubollywood919,kya bakwass hai kis type ki language use kar rha hai . asie padhaya nhi jaata
+@MONEY_MONEY347,aapka jald hi 1m subscriber ho jayega
+@Decodeandmarry,"""If I had a dollar for every time I've watched a study video instead of actually studying, I'd have enough money to pay someone to study for me."""
+@mygamedeveloper,Make deployment on vps spring boot project
+@aarushithakur3065,Sir mern stack ki videos bhi lao
+@nepoliyanpimpale4129,"sirjii mera to databse connection set hi nahi ho raha h,"
+@adityasuryawanshi6065,Views are 14 k and likes only 965
+@adityasuryawanshi6065,2000 likes Hurry up guys
+@kutakutiya2294,I think so video i😂
+@sy_37_siddhantmohekar62,"sir for delete it is not working in my pc so have use alternative for that 
+first I have make id to int and then use lamda funtion 
+ employees = employees.stream().filter(emp->emp.getId()!=id).collect(Collectors.toList());"
+@maitrygor4648,Nice content i really like it❤
+@utuber8452,.
+@ajaybadhodiya473,2.8.57    serialization
+@wamu17,Tragedy dekho sir ke new video aur is video ke views same  hai 😂
+@OmPrakashMallikOG,sir spring security sikha do
+@annd824,Padne pr dhyan du na ki fakne me .show off jyda mat Karo kable padao advertisement apne aap hu jayega
+@annd824,Inse bahut achey badey hai jin logo ne project banaya hai spring boot aur microservices me free me yh kable faltu bakbas krtey hai aur kuch ni apne advertisement krne ke ley
+@annd824,Yh kable faltu bakbas krtey hai apni bah bah ke ley
+@ok_this_is_priyam,"Sir ak problem aaraha hai
+Employee Controller class me
+EmployeeService employeeService=new EmployeeServiceImp();
+jab kar raha hu toh kaam ho raha hai but mai jab dependency injection kar raha hu 
+@Autowired
+ EmployeeService employeeService;
+tab mai jab run kar raha hu Internal Server Error dikha raha hai..........
+
+
+
+
+@Autowired
+   private EmployeeRepository employeeRepository; Iski waja se I think table me bhi value add nahi ho raha ... Plzzz Help"
+@lazzyrizwan5575,48:03
+@aditityagivats_,"Sir maine basic + Advanced topic + collections padh li hai java me to ab yeah Spring boot learn krna shuru krdu ya isse phle aur kuch bhi pdhu , please suggest sir 🙏🏿"
+@rohitpawar8737,Port 8080 is already in use in spring boot project error please give the  solution video 😒
+@rohitpawar8737,Port 8080 is already in use in spring boot project error please give the  solution video 😒
+@rohitpawar8737,Port 8080 is already in use in spring boot project error please give the  solution video 😒
+@rohitpawar8737,Port 8080 is already in use in spring boot project error please give the  solution video 😒
+@rohitpawar8737,Port 8080 is already in use in spring boot project error please give the  solution video 😒
+@rohitpawar8737,Port 8080 is already in use in spring boot project error please give the  solution video 😒
+@rohitpawar8737,Port 8080 is already in use in spring boot project error please give the  solution video 😒
+@rohitpawar8737,Port 8080 is already in use in spring boot project error please give the  solution video 😒
+@rohitpawar8737,Port 8080 is already in use in spring boot project error please give the  solution video 😒
+@rohitpawar8737,Port 8080 is already in use in spring boot project error please give the  solution video 😒
+@rohitpawar8737,Port 8080 is already in use in spring boot project error please give the  solution video 😒
+@rohitpawar8737,Port 8080 is already in use in spring boot project error please give the  solution video 😒
+@rohitpawar8737,Port 8080 is already in use in spring boot project error please give the  solution video 😒
+@rohitpawar8737,Port 8080 is already in use in spring boot project error please give the  solution video 😒
+@rohitpawar8737,Port 8080 is already in use in spring boot project error please give the  solution video 😒
+@lazzyrizwan5575,29:39
+@deeppassestime4645,"Mark my words sir:
+You're going to rock in this teaching field of technical world...🎉 मेरी प्रार्थनाएं आपके साथ हैं।❤"
+@sagarswain8621,"Hello sir , Devin ke bareme kuch bolo sir me abhi coding sikh raha hoon ..devin ke bareme sunne ke baad maan nhi kar raha hai aab"
+@thenotorious6872,github code link kaha dala hai. please give us.
+@TrusteestDesiChhora,Mast video sir aise hideo or cha hia
+@RohitVishwakarma-zl1ng,"Bhai ek baar
+""Kyon nhi ho rhi padhai"" bolo please 😊😊"
+@adityasuryawanshi6065,2000 likes for this Video!!!!  Hurry Up
+@JanviRupapara426,Waiting for this... Now my waiting over 🥳🥳🥳 Best sir ever
+@aniketvishwakarma132,"Your teaching is top-notch, and this playlist is a goldmine of insightful content."
+@gauravmoghe2875,Thanks a lot sir ❤
+@varunvarunb2575,Breakpoint dala karo sir
+@user-bk3gr1nl2s,"Sir I love you, thank you so much....🎉"
+@Iffu_the_prince,Why id and phone no was null because aapne read krte time return me sirf name and email hi diya tha isliye wo hi dikh rha tha postman me... Am I right sir??
+@ashiqurrahman1385,Thanks you guru❤❤
+@LuckyPirate11,What is the name of the teacher?
+@anantshukla6395,u r the best teacher
+@sumanshah5750,Thanks you sir for this effort
+@sumanshah5750,"What if multiple table, their relationship and how can we get arithmetic data from database to user... please next video"
+@Deekshith4455,Aur content dalo bbaiyya ji abhi app hi ho hame marg darshan dene ke liye ❤
+@the237EDj,"Awesome 😎,,"
+@user-ry6uv9gn8k,Thank you sir for best content
+@prabhuaryan553,🎉🎉🎉🎉 4:41
+@vinayaksahu1617,"4:38
+JSON (JavaScript Object Notation) is a lightweight data interchange format that is easy for humans to read and write, and easy for machines to parse and generate. It is a text-based format that is often used to transmit data between a server and a web application, as an alternative to XML (eXtensible Markup Language).
+
+JSON is based on a key-value pair structure, where data is represented as a collection of name/value pairs. The data types supported in JSON include:
+
+1. Objects: Enclosed in curly braces {}, an object is an unordered collection of key-value pairs. The keys are strings, and the values can be strings, numbers, objects, arrays, booleans, or null.
+
+   Example:
+   json
+   {
+     ""name"": ""John Doe"",
+     ""age"": 30,
+     ""city"": ""New York""
+   }
+   
+
+2. Arrays: An ordered list of values, enclosed in square brackets []. Array elements can be of any data type, including objects or other arrays.
+
+   Example:
+   json
+   [
+     ""apple"",
+     ""orange"",
+     ""banana""
+   ]
+   
+
+3. Strings: Enclosed in double quotes """", strings represent a sequence of characters.
+
+   Example:
+   json
+   ""Hello, World!""
+   
+
+4. Numbers: JSON supports numeric values, including integers and floating-point numbers.
+
+   Example:
+   json
+   42
+   
+
+5. Booleans: Represented as true or false.
+
+   Example:
+   json
+   true
+   
+
+6. Null: Represents an empty or undefined value.
+
+   Example:
+   json
+   null
+   
+
+JSON is widely used for configuration files, APIs (Application Programming Interfaces), and data exchange between different programming languages and platforms due to its simplicity, readability, and ease of parsing."
+@aditityagivats_,Respect Sir ❤🙏🏿
+@Spider-Man_67,Sir where's the front-end code?
+@suvodippatra2704,❤❤
+@anshulchouhan6982,Thanks alot sir
+@ansarinehal2025,Job bhi dila do
+@ansarinehal2025,Are sir sirf video banate ho tum
+@technorahulroy1408,Nice video actually i was waiting for quality content of spring boot
+@kishan-lm4ef,Devin ai  aa gya h guys..software industry ki ulti ginti shuru ho gyi h😢
+@user-tw5jz5dv9t,Where is spring ?
+@the_sahoo,❤❤❤
+@pranavgor7278,"See My Honnest Review::On Every Video of other youtuber it start with backvas end with the non sense of coding but but but........in the case of sirs video he stared with roadmap that why spring boot is used so that you can understand why are you ding this coding stuff after he explained about that rest controller and then and only he moves with another part in my opinion you shuold watch this at least one time after uploading this video it will 3rd time for me watching this //with 3x speed // but ya their
+is lots of good stuff i really appreciate the hard work of the sir thank you Pease ~~~~"
+@abhishekthakur8117,Awesome ❤❤
+@legendkiller5118,"Sir agr ye video 3 din pehele aa jati to mujhe java backend ki internship meel jati, kyu ki mujhe spring boot ka use kr ke ek backend api bnana tha😢"
+@piyushmaurya1939,Finally ❤
+@shaikhadil5038,Agar muje sirf java + oops aata hai tu kya mai spring boot kar sakta hon kya
+@rohitdevare2176,Thank you sir🙏
+@deepsahavlog,"Sir , Please ReactJS ka Course lakee aiyena plz😊 Sping Boot bohut eii accha tha ❤"
+@wajidali8567,Very very thank sir
+@deepsahavlog,😍😍😍😍😍
+@dewangupadhyay3163,Thank you sooooo soooo much sir
+@arunvasunny7386,"mentally both weak feel karra hu, presentation,final year project, exams,practicals, phir job ka tension, can you please make a video on controll tension"
+@freeyoutubr1618,Thanks you sir 😊🙏🙏
+@rishitavagdiya1082,Just see ❤❤❤
+@user-vi5ui2pv4k,Yo see it ❤❤❤ the course golden words ❤
+@maitrygor4648,❤
+@kirtanbornvita194,Ek aur video dedo na sirji spring boot PE maja ata apke video dekh ne mai ❤❤
+@bc0216,Thank you sir for best content and little thanks to editors chotu bhiyaaa ❤❤
+@bc0216,Just look at the beauty of spring boot yaar tomcat andar he de rakha hai ❤❤
+@opnoobgamnig9469,Wow thanks you sir ji 😊😊❤❤
+@kutakutiya2294,Mai to 0.25x mai dekhi ga ❤
+@ashiq1203,Just looking like wowww❤❤❤
+@wamu17,Thank you ji aur method ko call karve no ko ji object se karvalo ji ❤❤
+@preetysingh658,Big thanku sir
+@nikhiliwalekar2076,MUCH NEEDED
+@motivationforupsc3696,Love you sir❤❤❤
+@kenzeejod,Am speechless ❤❤❤❤
+@SomnathDas-fg2qc,Mereko smj me nhi aa rha h ye jo course h ye you tube me free aayega ya paid hoga?
+@kapilraivines8486,Sir PostMan Video be aane bali ti na iske liye
+@kutakutiya2294,Lets watch i just started after watching theb and only i will give my honest review
+@aditya_shivam7,Sir ji kya spring boot k Jobs h market me ? Sub web dev k bare me hi baat kr re. Or ye .net kesa h
+@arusharma5258,Great sir 💜
+@The_American_Nightmare_,Thanks Sir 🙏
+@huzaifanaseer3882,hit 2k likes guys!!!
+@cricshots4359,Thankyou sir ❤😊
+@Pankajsah11,Mark my words this video touch million soon🫡
+@CodingWallahSir,"Live Batch Full Stack Course - https://codingwallah.classx.co.in/new-courses/1-java-full-stack-course
+
+Want to connect in live Sat & sun with Some Real time Projects Hands on."
+@CodingShala786,Thanks a lot
+@Mohitkumar70554,Very very thank you sir ❤🙏♥️🙏..
+@dhanushkasubasingha4320,🎉 🇱🇰🥷 Thank You Sir
+@huzaifanaseer3882,Thank You Sir
+@anilrajput6451,Wah wah wah
+@rexgaming12,Joooddd
+@Lafhdajhalare,thank you sir
+@misal_thakre,3rd comment
+@NadiJyotish,Thanks
+@lunaticlunatic1186,Thankyou sir ❤
+@huzaifanaseer1484,First

@@ -1,0 +1,101 @@
+Author,Comment
+@CodingWallahSir,"Live Batch Full Stack Course - https://codingwallah.classx.co.in/new-courses/1-java-full-stack-course
+
+Want to connect in live Sat & sun with Some Real time Projects Hands on."
+@MotivationMatrix342,"I am very thankful to you sir for uploading this video and making it so easy for us to learn spring boot. 
+But the code you wrote for 'deleteEmployee' method at 1:36:03 did not work perfectly in my computer. The following code worked for me:
+
+@Override
+    public boolean deleteEmployee(Long id) {
+        // Find the employee with the given ID
+        Employee employeeToRemove = null;
+        for (Employee emp : employees) {
+            if (emp.getId().equals(id)) {
+                employeeToRemove = emp;
+                break;
+            }
+        }
+
+        // If employee found, remove it from the list
+        if (employeeToRemove != null) {
+            employees.remove(employeeToRemove);
+            return true;
+        } else {
+            return false; // Employee not found
+        }
+    }"
+@rohantyagi737,sir aapka offline coaching h ?? please reply i am from ghaziabad
+@reethikprasad2139,Github link is missing please provide
+@sagarsen07,Spring boot ki YouTube par Hindi me ache video hee nahi hai koi....
+@pottertechnical6748,please make vedio on access data by user on role base and password or otp based
+@pottertechnical6748,"thanks a lot sir from bottom of heart , the video has that all thing that a biginner needs a lots i tried to understand the spring boot from starting i have wathced more vedio they all created and i also created but at last understanding would be 10%, but you have solve the every step with concept i need this type video, i realy apreciated your effort, i need this type vedio. please make vedio like this on JWT and role base authorization and athotication.😘"
+@mohit-pb3oz,"Sir mysql workbench kali linux pe install nhi hora, mene postgress sql use kiya with the help of pg admin but error batara hai. ""DataSourceAutoConfiguration "" Krke, usko properties me jake spring. Autocofingure .exclude  kiya. 
+Work kra hai lekin tables create nhi hore. 
+
+And database connection ho gaya hai."
+@arunyadav7467,more on spring boot
+@vishaltiwari1200,Please provide the GitHub link sir
+@user-eu8vc8bk5y,please  sir  hibernate ka tutorial banao
+@Decodeandmarry,"""If I had a dollar for every time I've watched a study video instead of actually studying, I'd have enough money to pay someone to study for me."""
+@mygamedeveloper,Make deployment on vps spring boot project
+@aarushithakur3065,Sir mern stack ki videos bhi lao
+@adityasuryawanshi6065,2000 likes Hurry up guys
+@sy_37_siddhantmohekar62,"sir for delete it is not working in my pc so have use alternative for that 
+first I have make id to int and then use lamda funtion 
+ employees = employees.stream().filter(emp->emp.getId()!=id).collect(Collectors.toList());"
+@annd824,Inse bahut achey badey hai jin logo ne project banaya hai spring boot aur microservices me free me yh kable faltu bakbas krtey hai aur kuch ni apne advertisement krne ke ley
+@ok_this_is_priyam,"Sir ak problem aaraha hai
+Employee Controller class me
+EmployeeService employeeService=new EmployeeServiceImp();
+jab kar raha hu toh kaam ho raha hai but mai jab dependency injection kar raha hu 
+@Autowired
+ EmployeeService employeeService;
+tab mai jab run kar raha hu Internal Server Error dikha raha hai..........
+
+
+
+
+@Autowired
+   private EmployeeRepository employeeRepository; Iski waja se I think table me bhi value add nahi ho raha ... Plzzz Help"
+@aditityagivats_,"Sir maine basic + Advanced topic + collections padh li hai java me to ab yeah Spring boot learn krna shuru krdu ya isse phle aur kuch bhi pdhu , please suggest sir 🙏🏿"
+@rohitpawar8737,Port 8080 is already in use in spring boot project error please give the  solution video 😒
+@rohitpawar8737,Port 8080 is already in use in spring boot project error please give the  solution video 😒
+@rohitpawar8737,Port 8080 is already in use in spring boot project error please give the  solution video 😒
+@rohitpawar8737,Port 8080 is already in use in spring boot project error please give the  solution video 😒
+@rohitpawar8737,Port 8080 is already in use in spring boot project error please give the  solution video 😒
+@rohitpawar8737,Port 8080 is already in use in spring boot project error please give the  solution video 😒
+@rohitpawar8737,Port 8080 is already in use in spring boot project error please give the  solution video 😒
+@rohitpawar8737,Port 8080 is already in use in spring boot project error please give the  solution video 😒
+@rohitpawar8737,Port 8080 is already in use in spring boot project error please give the  solution video 😒
+@rohitpawar8737,Port 8080 is already in use in spring boot project error please give the  solution video 😒
+@rohitpawar8737,Port 8080 is already in use in spring boot project error please give the  solution video 😒
+@rohitpawar8737,Port 8080 is already in use in spring boot project error please give the  solution video 😒
+@rohitpawar8737,Port 8080 is already in use in spring boot project error please give the  solution video 😒
+@rohitpawar8737,Port 8080 is already in use in spring boot project error please give the  solution video 😒
+@rohitpawar8737,Port 8080 is already in use in spring boot project error please give the  solution video 😒
+@thenotorious6872,github code link kaha dala hai. please give us.
+@RohitVishwakarma-zl1ng,"Bhai ek baar
+""Kyon nhi ho rhi padhai"" bolo please 😊😊"
+@Iffu_the_prince,Why id and phone no was null because aapne read krte time return me sirf name and email hi diya tha isliye wo hi dikh rha tha postman me... Am I right sir??
+@ashiqurrahman1385,Thanks you guru❤❤
+@sumanshah5750,Thanks you sir for this effort
+@sumanshah5750,"What if multiple table, their relationship and how can we get arithmetic data from database to user... please next video"
+@pranavgor7278,"See My Honnest Review::On Every Video of other youtuber it start with backvas end with the non sense of coding but but but........in the case of sirs video he stared with roadmap that why spring boot is used so that you can understand why are you ding this coding stuff after he explained about that rest controller and then and only he moves with another part in my opinion you shuold watch this at least one time after uploading this video it will 3rd time for me watching this //with 3x speed // but ya their
+is lots of good stuff i really appreciate the hard work of the sir thank you Pease ~~~~"
+@rohitdevare2176,Thank you sir🙏
+@deepsahavlog,"Sir , Please ReactJS ka Course lakee aiyena plz😊 Sping Boot bohut eii accha tha ❤"
+@arunvasunny7386,"mentally both weak feel karra hu, presentation,final year project, exams,practicals, phir job ka tension, can you please make a video on controll tension"
+@freeyoutubr1618,Thanks you sir 😊🙏🙏
+@bc0216,Thank you sir for best content and little thanks to editors chotu bhiyaaa ❤❤
+@kutakutiya2294,Mai to 0.25x mai dekhi ga ❤
+@wamu17,Thank you ji aur method ko call karve no ko ji object se karvalo ji ❤❤
+@SomnathDas-fg2qc,Mereko smj me nhi aa rha h ye jo course h ye you tube me free aayega ya paid hoga?
+@kutakutiya2294,Lets watch i just started after watching theb and only i will give my honest review
+@aditya_shivam7,Sir ji kya spring boot k Jobs h market me ? Sub web dev k bare me hi baat kr re. Or ye .net kesa h
+@CodingWallahSir,"Live Batch Full Stack Course - https://codingwallah.classx.co.in/new-courses/1-java-full-stack-course
+
+Want to connect in live Sat & sun with Some Real time Projects Hands on."
+@dhanushkasubasingha4320,🎉 🇱🇰🥷 Thank You Sir
+@huzaifanaseer3882,Thank You Sir
+@Lafhdajhalare,thank you sir
+@misal_thakre,3rd comment

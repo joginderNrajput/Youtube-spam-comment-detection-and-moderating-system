@@ -1,0 +1,26 @@
+# Python
+.venv/
+api_key.txt
+secrets.toml
+__pycache__/
+*.py[cod]
+
+# Tkinter
+*.pyproj
+*.bak
+*.swp
+
+# IDE or editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.suo
+*.tlb
+*.tlh
+*.user
+*.userosscache
+*.sln.docstates
